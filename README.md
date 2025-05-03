@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Avinash Prajapat
+# 👋 Hi there! I'm Avinash Prajapati
 
 🎓 **MCA Student (AI & ML)**  
 💡 Passionate about Machine Learning, App Development & Backend Programming  
